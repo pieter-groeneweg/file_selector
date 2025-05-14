@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>file_selector</id>
+    <name>File Selector</name>
+    <description>App to select files and manage a JSON list</description>
+    <version>1.0.0</version>
+    <licence>AGPL</licence>
+    <author>Your Name</author>
+    <namespace>FileSelector</namespace>
+    <category>tools</category>
+    <dependencies>
+        <nextcloud min-version="20" max-version="25"/>
+    </dependencies>
+</info>
